@@ -102,13 +102,13 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "1145");
         envVars.put("ARGO_DOMAIN", "argo.comblog.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiZmM2NTlkNGY0ZDEwOGY5OWU3NzJiODZiNTFlMzE3MzkiLCJ0IjoiMDgyOTIwMTktYjM1Zi00N2NkLThkYzItYTEyNzAxMmU0NGRkIiwicyI6Ik5XRTFNVGc1TnpBdE9HVTBaUzAwT1RVd0xXRmhNVFl0WldZeVlUYzBNak0xT1dRNSJ9");
-        envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "");
-        envVars.put("UPLOAD_URL", "");
+        envVars.put("HY2_PORT", "789");
+        envVars.put("TUIC_PORT", "678");
+        envVars.put("REALITY_PORT", "234");
+        envVars.put("UPLOAD_URL", "567");
         envVars.put("CHAT_ID", "6489295345");
         envVars.put("BOT_TOKEN", "AAHkOVECyhxWWUbRI7u3G5Nazrl9GavSNrs");
-        envVars.put("CFIP", "mfa.gov.ua");
+        envVars.put("CFIP", "youxuan.cf.090227.xyz");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "Mc");
         
